@@ -1,16 +1,15 @@
-<h1 align="center"> Welcome to My GitHub Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hi , I'm Marco Urrutia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Hi, I'm **Marco Urrutia** 👨‍💻, a passionate **Full-Stack Developer** with a curiosity for discovering new technologies and exploring unique perspectives. I love diving into the **world of code** while appreciating the mysteries around us. Here, you’ll find a mix of my tech journey and a bit of my personal interests.
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
----
+<picture><img align="right" src="https://i.gifer.com/I6uH.gif" width = 250px></picture>
 
-## About Me  
+I'm a passionate **Full-Stack Developer** with a curiosity for discovering new technologies and exploring unique perspectives. I love diving into the **world of code** while appreciating the mysteries around us. Here, you’ll find a mix of my tech journey and a bit of my personal interests.
+ 
 - 🌍 From **Chile**, always exploring new tools and frameworks.  
 - 🌟 Currently learning **Node.js** and **Astro** to enhance my development skills.  
 - 🌙 When I’m not coding, you’ll find me enjoying the wonders of the universe or diving into a good sci-fi story.
-
----
-
+<br><br>
 ## My Tech Skills  
 Here are the **tools and languages** that power my projects:
 
