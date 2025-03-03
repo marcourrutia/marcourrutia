@@ -11,6 +11,8 @@ I'm a **Full-Stack Developer** always looking to learn and expand my programming
 - 🎸 In my free time, I enjoy learning about **science**, **music**, and playing the **guitar**.
 
 <br><br>
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-go%20to%20my%20portfolio-green?labelColor=purple&style=for-the-badge&logo=codecrafters&logoColor=white&link=https://devmarco.netlify.app/)](https://devmarco.netlify.app/)
+<br><br>
 ## My Tech Skills  
 Here are the **tools and languages** that power my projects:
 
@@ -30,7 +32,7 @@ Here are the **tools and languages** that power my projects:
 
 ## Let’s Connect  
 Feel free to reach out, and let's explore the world of coding together:  
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-marco-urrutia)
 - <div style="display: flex; align-items: center"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  m.urrutia1991@gmail.com</div>
 
 
